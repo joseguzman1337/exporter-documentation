@@ -1,4 +1,0 @@
-{* Get figma block payload *}
-{[ const block = context /]}
-
-{[ inject "page_block_embed_url" context block /]}

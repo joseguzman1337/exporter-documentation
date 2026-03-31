@@ -1,4 +1,0 @@
-{[ let pages = ds.allDocumentationPages() /]}
-{[ let groups = ds.allDocumentationGroups() /]}
-{[ let domain = ds.documentationDomain() /]}
-{{ buildSearchIndexJSON(pages, groups, domain) }}
